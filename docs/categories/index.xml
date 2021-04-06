@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Or Elimelech</title>
-    <link>https://or-e.net/categories/</link>
+    <link>https://vic3lord.github.io/categories/</link>
     <description>Recent content in Categories on Or Elimelech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright notice</copyright><atom:link href="https://or-e.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright notice</copyright><atom:link href="https://vic3lord.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
