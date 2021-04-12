@@ -3,6 +3,7 @@ languageCode = "en-us"
 Title = "Or Elimelech"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright notice"
+publishDir = "docs"
 
 # Google Analytics API key.
 # googleAnalytics = "Your Google Analytics tracking id"
