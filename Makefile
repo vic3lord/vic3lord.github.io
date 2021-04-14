@@ -1,2 +1,2 @@
 build:
-	hugo -t hugo_theme_pickles --minify
+	hugo --minify
