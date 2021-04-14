@@ -18,7 +18,7 @@ theme = "hugo_theme_pickles"
   github = "vic3lord"
   bio = "SRE at StackPulse."
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Short subtitle"
+  subtitle = ""
   # Logo image. This is displayed ogp image.
   # logo = "/path/to/logo"
   # favicon = "/path/to/favicon"
