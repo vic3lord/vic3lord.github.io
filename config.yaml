@@ -17,7 +17,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Or Elimelech
     description: "Site-Reliability Engineering"
-    keywords: [Blog, Portfolio, PaperMod]
+    keywords: [Blog, Portfolio]
     author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -29,7 +29,7 @@ params:
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: false
+    ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
@@ -69,7 +69,7 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
+        Title: "Or Elimelech"
         Content: Site-Reliability Engineering
 
     socialIcons:
