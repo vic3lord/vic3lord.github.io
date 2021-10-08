@@ -1,2 +1,2 @@
 build:
-	hugo --minify
+	hugo
