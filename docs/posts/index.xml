@@ -9,14 +9,14 @@
       <link>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://or-e.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://or-e.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Using BigQuery as datalake-house</title>
+      <title>Build a datalake on top of BigQuery</title>
       <link>https://or-e.net/posts/bigquery-lakehouse/</link>
-      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://or-e.net/posts/bigquery-lakehouse/</guid>
-      <description>Google BigQuery is a very powerfull serverless data-warehosue. Just ingest any amount of data and pay per-use (storage + querying). The strength of datawarehouses is first and foremost being able to query and analyze imense amounts of structured data.
+      <description>Google BigQuery is a very powerfull serverless data-warehosue. It lets you ingest any amount of data and pay per-use (storage + querying). The strength of datawarehouses is first and foremost being able to query and analyze imense amounts of structured data.
 Modern warehouses support new unstructured data types such as JSON, Avro etc. which makes them a great contender for datalakes. BigQuery recently added native JSON column type which we can leverage for our semi-structured lakehouse.</description>
     </item>
     
