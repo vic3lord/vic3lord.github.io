@@ -55,18 +55,18 @@ params:
 
   label:
     text: "Home"
-      # icon: /apple-touch-icon.png
-      # iconHeight: 35
+    # icon: /apple-touch-icon.png
+    # iconHeight: 35
 
-      # profile-mode
+  # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    enabled: false
+    title: Or Elimelech
+    subtitle: "Site-Reliability Engineering"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: 
     buttons:
       - name: Posts
         url: posts
@@ -75,8 +75,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-      Title: "Or Elimelech"
-      Content: Site-Reliability Engineering
+    Title: "Or Elimelech"
+    Content: Site-Reliability Engineering
 
   socialIcons:
     - name: twitter
