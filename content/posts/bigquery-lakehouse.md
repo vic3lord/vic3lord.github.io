@@ -21,7 +21,7 @@ The files are partitioned using a special directory structure for the time range
 Now we need to make it even faster to query lots of data for a specific `event_name` we need to use another component called metastore.
 
 Metastore is a meta-data storage system that can index certain properties of the data which makes it easier to pin-point the correct files containing the relevant data.
-Now we have two separate large scale systems that needs to be managed by data engineerns.
+Now we have two separate large scale systems that needs to be managed by data engineers.
 Filesystems are cumbersome, harder to query and maintain.
 
 It's worth noting that blob storage have some great advantages:
