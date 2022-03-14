@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://or-e.net/tags/bigquery/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://or-e.net/posts/bigquery-lakehouse/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://or-e.net/tags/data/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://or-e.net/tags/google-cloud/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://or-e.net/</loc>
@@ -11,10 +20,13 @@
     <loc>https://or-e.net/posts/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://or-e.net/tags/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://or-e.net/about/</loc>
   </url><url>
     <loc>https://or-e.net/categories/</loc>
   </url><url>
-    <loc>https://or-e.net/tags/</loc>
+    <loc>https://or-e.net/search/</loc>
   </url>
 </urlset>

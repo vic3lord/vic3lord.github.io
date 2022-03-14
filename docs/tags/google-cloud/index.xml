@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Or Elimelech</title>
-    <link>https://or-e.net/</link>
-    <description>Recent content on Or Elimelech</description>
+    <title>google-cloud on Or Elimelech</title>
+    <link>https://or-e.net/tags/google-cloud/</link>
+    <description>Recent content in google-cloud on Or Elimelech</description>
     <image>
       <url>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://or-e.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://or-e.net/tags/google-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a datalake on top of BigQuery</title>
       <link>https://or-e.net/posts/bigquery-lakehouse/</link>
@@ -19,16 +19,6 @@
       <description>Google BigQuery is a very powerfull serverless data-warehosue. It lets you ingest any amount of data and pay per-use (storage + querying). The strength of datawarehouses is first and foremost being able to query and analyze imense amounts of structured data.
 Modern warehouses support new unstructured data types such as JSON, Avro etc. which makes them a great contender for datalakes. BigQuery recently added native JSON column type which we can leverage for our semi-structured lakehouse.</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://or-e.net/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://or-e.net/about/</guid>
-      <description>External links  Linkerd case study: https://www.cncf.io/case-studies/apester/ Google Cloud case study: https://cloud.google.com/customers/apester  </description>
-    </item>
-    
     
   </channel>
 </rss>

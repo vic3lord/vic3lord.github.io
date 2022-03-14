@@ -2,6 +2,7 @@
 author: "Or Elimelech"
 date: 2022-03-14
 title: Build a datalake on top of BigQuery
+tags: ['bigquery', 'data', 'google-cloud']
 ---
 
 Google BigQuery is a very powerfull serverless data-warehosue.
