@@ -16,8 +16,8 @@
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://or-e.net/posts/bigquery-lakehouse/</guid>
-      <description>Google BigQuery is a very powerfull serverless data-warehosue. It lets you ingest any amount of data and pay per-use (storage + querying). The strength of datawarehouses is first and foremost being able to query and analyze imense amounts of structured data.
-Modern warehouses support new unstructured data types such as JSON, Avro etc. which makes them a great contender for datalakes. BigQuery recently added native JSON column type which we can leverage for our semi-structured lakehouse.</description>
+      <description>Google BigQuery is a very powerful, serverless data warehosue that lets you ingest unlimited data on a pay-per-use basis (storage + querying). The primary advantage of data warehouses is the ability to quickly query and analyze immense amounts of structured data.
+Modern data warehouses support new, unstructured data types such as JSON, Avro, and so on, which makes these data warehouses a great contender for data lakes. BigQuery recently added native JSON column type, which we can leverage for our semi-structured lakehouse.</description>
     </item>
     
   </channel>
