@@ -12,7 +12,7 @@ The primary advantage of data warehouses is the ability to quickly query and ana
 Modern data warehouses support new, unstructured data types such as JSON, Avro, and so on, which makes these data warehouses a great contender for data lakes.
 BigQuery recently added native JSON column type, which we can leverage for our semi-structured lakehouse.
 With JSON support we can skip the traditional datalakes that are just blob storage with files, from classic Hadoop + hive through GCS, S3, Athena etc.
-Maintaining such infrastructure and understanding the low-level components, suck as metastore, ORC, and Parquet is an expensive process for most startups, financially and with regard to domain expertise.
+Maintaining such infrastructure and understanding the low-level components, such as metastore, ORC, and Parquet is an expensive process for most startups, financially and with regard to domain expertise.
 
 ## Data Lakes
 
@@ -82,7 +82,7 @@ WHERE
 ```
 
 ## Conclusion
-(Need a sentence here about lakehouses and how it ties to BigQuery. This is the big conclusion of your thesis about BigQuery and lakehouses).
+BigQuery is an excellent candidate to serve as the basis for your next data lake adventure (good luck!).
 
 - BigQuery can help you start small and easily scale out.
 - Organizations of all sizes will benefit (if you don't store anything you won't pay for it).
