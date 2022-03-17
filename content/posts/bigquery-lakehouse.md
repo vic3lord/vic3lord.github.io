@@ -53,7 +53,7 @@ Next, we use materialized-views or scheduled queries (via BigQuery/Airflow etc.)
 | 6EF89A2E-8E11-4848-91B3-11682020559F | Sun Mar 6 15:48:24 IST 2022 | something_happened | service-a | application/json | `{"hello": "from lakehouse"}` | NULL       |
 
 
-## Easy ETLs with materialized-views
+## Easy ETLs with [materialized-views](https://cloud.google.com/bigquery/docs/materialized-views-intro)
 
 IMHO SQL is a great language to use to describe data.
 SQL is making a noticeable come back. Even Elastic and MongoDB support SQL. The rise of new-SQL databases like CockroachDB, modern warehouses, logging systems, etc. are clear evidence that SQL is here to stay.
