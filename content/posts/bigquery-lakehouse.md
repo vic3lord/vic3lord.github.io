@@ -35,7 +35,7 @@ It's worth noting that blob storage has several clear advantages:
 ## What's a data lakehouse?
 
 A data warehouse is storage for structured data. A data lake is storage for unstructured data. A **data lakehouse** is the beautiful storage love child of the warehouse and lake.
-The lakeshouse leverages the semi-structured JSON column of BigQuery and helps us ingest a flexible data structure while the native columns act as our metastore.
+The lakehouse leverages the semi-structured JSON column of BigQuery and helps us ingest a flexible data structure while the native columns act as our metastore.
 
 ## Lakehouse example
 
