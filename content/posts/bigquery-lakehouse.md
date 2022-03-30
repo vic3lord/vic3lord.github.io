@@ -16,7 +16,7 @@ Maintaining such infrastructure and understanding the low-level components, such
 
 ## Data Lakes
 
-Let's take a step back and look at standard data lakes. This will lay the foundatioin for clearly understanding the benefits of using BigQuery for these modern, advanced workloads that contain unstructred data.
+Let's take a step back and look at standard data lakes. This will lay the foundation for clearly understanding the benefits of using BigQuery for these modern, advanced workloads that contain unstructred data.
 Data lakes are built for unstructured data using blob storage systems by using efficient compression and columnar data files, such as Parquet.
 The files are partitioned using a special directory structure for the given time range, making it easy to scan specific time ranges.
 Now, ideally we need to make it even faster to query lots of data for a specific `event_name`. To do this, we need to use another component called metastore.
