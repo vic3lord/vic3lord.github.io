@@ -11,9 +11,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://or-e.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>go</title>
+      <link>https://or-e.net/tags/go/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://or-e.net/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grpc</title>
+      <link>https://or-e.net/tags/grpc/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://or-e.net/tags/grpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protobuf</title>
+      <link>https://or-e.net/tags/protobuf/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://or-e.net/tags/protobuf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>bigquery</title>
       <link>https://or-e.net/tags/bigquery/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://or-e.net/tags/bigquery/</guid>
       <description></description>
@@ -22,7 +49,7 @@
     <item>
       <title>data</title>
       <link>https://or-e.net/tags/data/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://or-e.net/tags/data/</guid>
       <description></description>
@@ -31,7 +58,7 @@
     <item>
       <title>google-cloud</title>
       <link>https://or-e.net/tags/google-cloud/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://or-e.net/tags/google-cloud/</guid>
       <description></description>

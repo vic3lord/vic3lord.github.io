@@ -2,7 +2,7 @@
 author: "Or Elimelech"
 date: 2022-05-08
 title: Add Protobuf messages into gRPC errors.
-tags: ['bigquery', 'data', 'google-cloud']
+tags: ['grpc', 'go', 'protobuf']
 ---
 
 I had encountred a number of times for the need to give a structured message through gRPC errors
