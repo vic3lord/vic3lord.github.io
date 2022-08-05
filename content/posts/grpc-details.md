@@ -12,6 +12,8 @@ The default `Go` err or `status.Errorf` functions are simple strings by default.
 func (s *Server) LintFile(ctx context.Context, req *LintRequest) (*LintResponse, error) {
 	lintRes, err := lint(ctx, req.GetFile())
 	if err != nil {
+		// lintRes is a protbuf message containing detailed error
+		// for each line in the given file.
 		return nil, status.New(codes.FailedPrecondition, "File isn't valid").WithDetails(lintRes)
 	}
 	return &LintResponse{}, nil

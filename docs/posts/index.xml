@@ -17,7 +17,7 @@
       
       <guid>https://or-e.net/posts/grpc-details/</guid>
       <description>I had encountred a number of times for the need to give a structured message through gRPC errors The default Go err or status.Errorf functions are simple strings by default.
-func (s *Server) LintFile(ctx context.Context, req *LintRequest) (*LintResponse, error) { lintRes, err := lint(ctx, req.GetFile()) if err != nil { return nil, status.New(codes.FailedPrecondition, &amp;#34;File isn&amp;#39;t valid&amp;#34;).WithDetails(lintRes) } return &amp;amp;LintResponse{}, nil } The example above illustrates a situation where you need to know what exactly was wrong with the file, The line number of where the error happened, what&amp;rsquo;s the reason etc.</description>
+func (s *Server) LintFile(ctx context.Context, req *LintRequest) (*LintResponse, error) { lintRes, err := lint(ctx, req.GetFile()) if err != nil { // lintRes is a protbuf message containing detailed error // for each line in the given file. return nil, status.New(codes.FailedPrecondition, &amp;#34;File isn&amp;#39;t valid&amp;#34;).</description>
     </item>
     
     <item>
