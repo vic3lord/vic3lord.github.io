@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>protobuf on Or Elimelech</title>
+    <link>https://or-e.net/tags/protobuf/</link>
+    <description>Recent content in protobuf on Or Elimelech</description>
+    <image>
+      <url>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://or-e.net/tags/protobuf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add Protobuf messages into gRPC errors.</title>
+      <link>https://or-e.net/posts/grpc-details/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://or-e.net/posts/grpc-details/</guid>
+      <description>I had encountred a number of times for the need to give a structured message through gRPC errors The default Go err or status.Errorf functions are simple strings by default.
+func (s *Server) LintFile(ctx context.Context, req *LintRequest) (*LintResponse, error) { lintRes, err := lint(ctx, req.GetFile()) if err != nil { // lintRes is a protbuf message containing detailed error // for each line in the given file. return nil, status.New(codes.FailedPrecondition, &amp;#34;File isn&amp;#39;t valid&amp;#34;).</description>
+    </item>
+    
+  </channel>
+</rss>
