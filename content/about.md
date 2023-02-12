@@ -11,7 +11,7 @@ Designing highly scalable platforms that serves billions of requests and happy c
 Manifesting systems and bringing them to life with the best in class technology-stack that fits the needs of the business.
 Whether it be Kubernetes, Google Cloud Platform, AWS, Go, Prometheus, Temporal etc.
 Writing packages alongside developers to help them abstract the complexity away from servers they build
-such as gRPC and Pub/sub with developer-experience in mind.
+such as gRPC and Pub/Sub with developer-experience in mind.
 
 Leading the compliance processes (SOC2, ISO, PCI, HIPPA etc.) with implementing security guidelines and guardrails altogether
 with education and presentations preventing from bad practices to re-occur in the future.
