@@ -26,9 +26,11 @@ to have great DevOps culture and to have them impact their daily work.
 - GitOps (Flux).
 - Ownership of teams and on-call shifts (you build it, you run it).
 - Postmortem framework with emphasis on being blameless in order to learn and setup preventation for the future.
+- ChatOps and chatbots that help devs debug and understand the system without the need of installing tools/scripts by providing a lot of the tasks as a Slack bot to interact with many daily tedious tasks that are automated via simple commands.
 
 Contributing to the open-source community for tools we use and love.
 Publishing internal tools as open-source when it's clear it has more general use cases outside of the company and can make the community's lives easier.
+
 
 ### SRE lead at Torq
 
