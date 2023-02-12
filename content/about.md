@@ -20,6 +20,14 @@ Striving for data-driven organizations Or also designed the BI and data engineer
 and tools helping organizations emitting data to lakes and warehouses by providing libraries and SDKs to interact with massive data needs.
 > Pipelines written in Apache-beam, dashboards with Apache Superset or Metabase, headless BI for frontends and other needs implemented with cube.dev
 
+Creating and advocating for advanced methodologies together with developers to have common ground between SRE and devs 
+to have great DevOps culture and to have them impact their daily work.
+- CI/CD with progressive rollouts and canaries (Flagger)
+- GitOps (Flux).
+- Ownership of teams and on-call shifts (you build it, you run it).
+- Postmortem framework with emphasis on being blameless in order to learn and setup preventation for the future.
+
+
 ### SRE lead at Torq
 
 As a core-team member and SRE lead at `torq` I've designed and built our
