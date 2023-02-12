@@ -27,6 +27,8 @@ to have great DevOps culture and to have them impact their daily work.
 - Ownership of teams and on-call shifts (you build it, you run it).
 - Postmortem framework with emphasis on being blameless in order to learn and setup preventation for the future.
 
+Contributing to the open-source community for tools we use and love.
+Publishing internal tools as open-source when it's clear it has more general use cases outside of the company and can make the community's lives easier.
 
 ### SRE lead at Torq
 
