@@ -18,6 +18,7 @@ with education and presentations preventing from bad practices to re-occur in th
 
 Striving for data-driven organizations Or also designed the BI and data engineering practices, data-pipelines, dashboards
 and tools helping organizations emitting data to lakes and warehouses by providing libraries and SDKs to interact with massive data needs.
+> Pipelines written in Apache-beam, dashboards with Apache Superset or Metabase, headless BI for frontends and other needs implemented with cube.dev
 
 ### SRE lead at Torq
 
