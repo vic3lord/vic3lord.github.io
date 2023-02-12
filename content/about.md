@@ -23,6 +23,7 @@ and tools helping organizations emitting data to lakes and warehouses by providi
 Creating and advocating for advanced methodologies together with developers to have common ground between SRE and devs 
 to have great DevOps culture and to have them impact their daily work.
 - CI/CD with progressive rollouts and canaries (Flagger).
+- Feature flags and A/B testing.
 - GitOps (Flux).
 - Ownership of teams and on-call shifts (you build it, you run it).
 - Postmortem framework with emphasis on being blameless in order to learn and setup preventation for the future.
