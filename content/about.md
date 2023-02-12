@@ -9,7 +9,7 @@ helping them be the best and most efficient they can be in order to provide valu
 Designing highly scalable platforms that serves billions of requests and happy customers with resiliency and simplicity in mind.
 
 Manifesting systems and bringing them to life with the best in class technology-stack that fits the needs of the business.
-Whether it be Kubernetes, Google Cloud Platform, AWS, Go, Prometheus etc.
+Whether it be Kubernetes, Google Cloud Platform, AWS, Go, Prometheus, Temporal etc.
 Writing packages alongside developers to help them abstract the complexity away from servers they build
 such as gRPC and Pub/sub with developer-experience in mind.
 
