@@ -33,14 +33,32 @@ Contributing to the open-source community for tools we use and love.
 Publishing internal tools as open-source when it's clear it has more general use cases outside of the company and can make the community's lives easier.
 
 
-### SRE lead at Torq
-
+### SRE lead — Torq (*2020 - 2023*)
 As a core-team member and SRE lead at `torq` I've designed and built our
 cloud-infrastructure on top of Google Cloud Platform
 
-### SRE at Apester
-
+### SRE — Apester (*2017 - 2020*)
 Migrated the company from AWS EC2 to GCP and Kubernetes, building the new data infrastructure on top of BigQuery, Pub/Sub and Dataflow.
+
+### DevOps Engineer — AppCoin (*2015 - 2017*)
+Designed and built from scratch an entire infrastructure on Google Cloud Platform on top of Kubernetes and Docker containers.
+Continuous deployment, Monitoring (Prometheus & Grafana). Security policies and threat management.
+
+### DevOps Engineer — Wix.com (*2014 - 2015*)
+Infrastructure solutions, working on Google Cloud Platform, AWS and physical infra.
+Mail anti-spoofing implementation using DKIM, DMARC etc. Monitoring infra at large scale with Sensu and InfluxDB.
+Design new infrastructure with enhanced security, firewalls etc.
+
+### DevOps Engineer — XWise a Playtech company (*2011 - 2014*)
+Deployed and managed a highly available e-mail Infrastructure.
+Maintained and designed the firewalls and other security aspects including VPNs, Security audits regulations and certifications, disaster recovery policies and access control of the Organisation.
+Administer private and public clouds on vSphere and Amazon respectively, Providing all the related systems: fibre switches, SANs, vSwitches and Security-wise actions.
+Designed the company’s monitoring and centralised log systems (Nagios, ELK etc.).
+Extremely experienced with configuration management systems (Puppet).
+Version control systems (Git, Subversion).
+Database administration and development on Relational and NoSQL databases (PostgreSQL, Redis, MongoDB).
+Writing programs, scripts and web tools.
+Maintained a large-scale and distributed web environments.
 
 ---
 ## External links
