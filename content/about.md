@@ -34,8 +34,8 @@ Publishing internal tools as open-source when it's clear it has more general use
 
 
 ### SRE lead — Torq (*2020 - 2023*)
-As a core-team member and SRE lead at `torq` I've designed and built our
-cloud-infrastructure on top of Google Cloud Platform
+As a core-team member and SRE lead at `torq` Or designed and built the
+cloud-infrastructure on top of Google Cloud Platform. Wrote crticial product components using Go.
 
 ### SRE — Apester (*2017 - 2020*)
 Migrated the company from AWS EC2 to GCP and Kubernetes, building the new data infrastructure on top of BigQuery, Pub/Sub and Dataflow.
