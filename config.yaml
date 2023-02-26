@@ -112,17 +112,17 @@ params:
 menu:
   main:
     - identifier: about
-      name: about
+      name: About
       url: /about/
       weight: 10
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 20
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 30
-    - name: search
+    - name: Search
       url: /search/
       weight: 40
