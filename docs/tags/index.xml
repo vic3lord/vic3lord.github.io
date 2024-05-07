@@ -9,62 +9,51 @@
       <url>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.6</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://or-e.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://or-e.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go</title>
       <link>https://or-e.net/tags/go/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://or-e.net/tags/go/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Grpc</title>
       <link>https://or-e.net/tags/grpc/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://or-e.net/tags/grpc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Protobuf</title>
       <link>https://or-e.net/tags/protobuf/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://or-e.net/tags/protobuf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bigquery</title>
       <link>https://or-e.net/tags/bigquery/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://or-e.net/tags/bigquery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data</title>
       <link>https://or-e.net/tags/data/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://or-e.net/tags/data/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Google-Cloud</title>
       <link>https://or-e.net/tags/google-cloud/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://or-e.net/tags/google-cloud/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
