@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://or-e.net/tags/macos/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://or-e.net/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://or-e.net/posts/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://or-e.net/tags/setup/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://or-e.net/posts/sudo-tid/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://or-e.net/tags/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://or-e.net/posts/grpc-details/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,16 +29,7 @@
     <loc>https://or-e.net/tags/grpc/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://or-e.net/</loc>
-    <lastmod>2022-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://or-e.net/posts/</loc>
-    <lastmod>2022-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://or-e.net/tags/protobuf/</loc>
-    <lastmod>2022-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://or-e.net/tags/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://or-e.net/tags/bigquery/</loc>

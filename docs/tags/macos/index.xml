@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MacOS on Or Elimelech</title>
+    <link>https://or-e.net/tags/macos/</link>
+    <description>Recent content in MacOS on Or Elimelech</description>
+    <image>
+      <title>Or Elimelech</title>
+      <url>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://or-e.net/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Support Touch ID for sudo</title>
+      <link>https://or-e.net/posts/sudo-tid/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://or-e.net/posts/sudo-tid/</guid>
+      <description>&lt;p&gt;Just got a new computer again (new job) and realized I need to reconfigure sudo to work with touch-id.
+I then realized I didn&amp;rsquo;t have touch-id enabled for sudo in a long time, the reason is that every OS update it resets the config.
+Today when enabling it, I have realized that there&amp;rsquo;s a file called &lt;code&gt;/etc/pam.d/sudo_local.template&lt;/code&gt; which does exactly that.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo_local&lt;/code&gt; is a filed that will not be overwritten when upgrading between OS versions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

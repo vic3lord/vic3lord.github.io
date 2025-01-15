@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://or-e.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacOS</title>
+      <link>https://or-e.net/tags/macos/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://or-e.net/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Setup</title>
+      <link>https://or-e.net/tags/setup/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://or-e.net/tags/setup/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Go</title>
       <link>https://or-e.net/tags/go/</link>
