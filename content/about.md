@@ -32,6 +32,9 @@ to have great DevOps culture and to have them impact their daily work.
 Contributing to the open-source community for tools we use and love.
 Publishing internal tools as open-source when it's clear it has more general use cases outside of the company and can make the community's lives easier.
 
+### SRE lead (Core team) - Mind (*2023 - 2025*)
+Built CI pipelines using Dagger, contributed to the core product reliability and scalability. Leveraging Google Cloud Platform, GKE.
+Managed inference infrastructure using various models.
 
 ### SRE lead — Torq (*2020 - 2023*)
 As a core-team member and SRE lead at `torq` Or designed and built the
