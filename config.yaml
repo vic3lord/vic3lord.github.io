@@ -1,6 +1,5 @@
 baseURL: "https://or-e.net/"
 title: Or Elimelech
-paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -8,6 +7,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 publishDir: docs
+
+pagination:
+  pageSize: 10
 
 minify:
   disableXML: true

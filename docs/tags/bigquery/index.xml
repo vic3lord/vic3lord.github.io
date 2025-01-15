@@ -9,7 +9,7 @@
       <url>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://or-e.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.125.6</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://or-e.net/tags/bigquery/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,13 @@
       <link>https://or-e.net/posts/bigquery-lakehouse/</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://or-e.net/posts/bigquery-lakehouse/</guid>
-      <description>Google BigQuery is a very powerful, serverless data warehosue that lets you ingest unlimited data on a pay-per-use basis (storage + querying). The primary advantage of data warehouses is the ability to quickly query and analyze immense amounts of structured data.
-Modern data warehouses support new, unstructured data types such as JSON, Avro, and so on, which makes these data warehouses a great contender for data lakes. BigQuery recently added native JSON column type, which we can leverage for our semi-structured lakehouse.</description>
+      <description>&lt;p&gt;Google BigQuery is a very powerful, serverless data warehosue that
+lets you ingest unlimited data on a pay-per-use basis (storage + querying).
+The primary advantage of data warehouses is the ability to quickly query and analyze immense amounts of &lt;strong&gt;structured&lt;/strong&gt; data.&lt;/p&gt;
+&lt;p&gt;Modern data warehouses support new, unstructured data types such as JSON, Avro, and so on, which makes these data warehouses a great contender for data lakes.
+BigQuery recently added native JSON column type, which we can leverage for our semi-structured lakehouse.
+With JSON support we can skip the traditional datalakes that are just blob storage with files, from classic Hadoop + hive through GCS, S3, Athena etc.
+Maintaining such infrastructure and understanding the low-level components, such as metastore, ORC, and Parquet is an expensive process for most startups, financially and with regard to domain expertise.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: "2021"
 ---
 
 Or is an experienced SRE for over a decade, building companies and their infrastructure.
