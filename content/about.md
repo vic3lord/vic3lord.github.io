@@ -21,25 +21,25 @@ and tools helping organizations emitting data to lakes and warehouses by providi
 
 Creating and advocating for advanced methodologies together with developers to have common ground between SRE and devs 
 to have great DevOps culture and to have them impact their daily work.
-- CI/CD with progressive rollouts and canaries (Flagger).
-- Feature flags and A/B testing.
-- GitOps (Flux).
-- Ownership of teams and on-call shifts (you build it, you run it).
-- Postmortem framework with emphasis on being blameless in order to learn and set up prevention for the future.
-- ChatOps and chatbots that help devs debug and understand the system without the need of installing tools/scripts by providing a lot of the tasks as a Slack bot to interact with many daily tedious tasks that are automated via simple commands.
+- CI/CD with progressive rollouts and canaries
+- Feature flags and A/B testing
+- GitOps
+- Ownership of teams and on-call shifts (you build it, you run it)
+- Postmortem framework with emphasis on being blameless in order to learn and set up prevention for the future
+- ChatOps and chatbots that help devs debug and understand the system without the need of installing tools/scripts by providing a lot of the tasks as a Slack bot to interact with many daily tedious tasks that are automated via simple commands
 
 Contributing to the open-source community for tools we use and love.
-Publishing internal tools as open-source when it's clear it has more general use cases outside of the company and can make the community's lives easier.
+Publishing internal tools as open-source when it's clear it has more general use cases outside the company and can make the community's lives easier.
 
-### SRE lead (Core team) - Mind (*2023 - 2025*)
+### SRE lead (Founding team) - Mind (*2023 - 2025*)
 Built CI pipelines using Dagger, contributed to the core product reliability and scalability. Leveraging Google Cloud Platform, GKE.
 Managed inference infrastructure using various models.
 
-### SRE lead — Torq (*2020 - 2023*)
-As a core-team member and SRE lead at `torq` Or designed and built the
-cloud-infrastructure on top of Google Cloud Platform. Wrote crticial product components using Go.
+### SRE lead (Founding team) — Torq (*2020 - 2023*)
+As a founding-team member and SRE lead at `torq` Or designed and built the
+cloud-infrastructure. Wrote crticial product components. Leading many architectural decisions and implementations.
 
-### SRE — Apester (*2017 - 2020*)
+### SRE lead — Apester (*2017 - 2020*)
 Migrated the company from AWS EC2 to GCP and Kubernetes, building the new data infrastructure on top of BigQuery, Pub/Sub and Dataflow.
 
 ### DevOps Engineer — AppCoin (*2015 - 2017*)
