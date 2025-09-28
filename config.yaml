@@ -81,8 +81,8 @@ params:
     Content: Site-Reliability Engineering
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/orelimelech_"
+    - name: x
+      url: "https://x.com/orelimelech_"
     - name: github
       url: "https://github.com/vic3lord"
 
